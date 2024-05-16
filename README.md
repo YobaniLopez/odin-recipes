@@ -1,0 +1,1 @@
+This is a project to create online pages for recipes. I will be practicing HTML, CSS, and Javascript.
